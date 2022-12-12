@@ -1,0 +1,39 @@
+{
+	"id": "7b29caac-fbe0-4a23-8a80-1034b00fa655",
+	"values": [
+		{
+			"key": "FirstBoardID",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "LastBoardID",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "BoardIDs",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "FirstListID",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "LastListID",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-12-06T12:26:17.982Z",
+	"_postman_exported_using": "Postman/10.5.7"
+}

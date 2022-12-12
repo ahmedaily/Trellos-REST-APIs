@@ -1,0 +1,339 @@
+{
+    "id": "62163e8c6019e022613add50",
+    "aaId": "62163e855d162c0069a5fb50",
+    "activityBlocked": false,
+    "avatarHash": "29637a91f468dac55adc8d4e83c96c42",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/62163e8c6019e022613add50/29637a91f468dac55adc8d4e83c96c42",
+    "bio": "",
+    "bioData": {
+        "emoji": {}
+    },
+    "confirmed": true,
+    "fullName": "Ahmed Ali Shaban",
+    "idEnterprise": null,
+    "idEnterprisesDeactivated": [],
+    "idMemberReferrer": null,
+    "idPremOrgsAdmin": [],
+    "initials": "AS",
+    "memberType": "normal",
+    "nonPublic": {},
+    "nonPublicAvailable": true,
+    "products": [],
+    "url": "https://trello.com/ahmmedalli",
+    "username": "ahmmedalli",
+    "status": "disconnected",
+    "aaBlockSyncUntil": null,
+    "aaEmail": null,
+    "aaEnrolledDate": null,
+    "avatarSource": "atlassianAccount",
+    "credentialsRemovedCount": 0,
+    "domainClaimed": null,
+    "email": "eng.ahmedali05@gmail.com",
+    "goldSunsetFreeTrialIdOrganization": null,
+    "gravatarHash": "f89b3b1164c9d04be28077861ddb7575",
+    "idBoards": [
+        "62163f19140e0677594aa593",
+        "622e1ae16dd61e3cae40876d",
+        "62ab26d4800a09880a76b073",
+        "62f5343929ba40488f58d4b7",
+        "6319b2aac1dbdb00537d181d",
+        "632b06989c8413018f2d42a2",
+        "633004c4759c9202cbd0a278",
+        "630074d54086b52208a81007",
+        "63381b67fc2890028115d36a",
+        "6339a12a25ba460422bcf92f",
+        "633abac7d6b747035af84c73",
+        "6169a8688db58c1e012a7028",
+        "63455703c54fc80466017e2d",
+        "634c01333109bf05992fa905",
+        "634fa51f2da56d016cc61955",
+        "635d1e94f99d0f149f89390b",
+        "6360ed66c41fe2006fcbe48c",
+        "63677701eea74c01485848f7",
+        "636776bb07fb7500992edab8",
+        "636a066868eed100fccb6a9e",
+        "636a0531c89dd6017d358f88",
+        "636a053c78706500ed49ca81",
+        "636b721f1ff94701f737bea2",
+        "636b549753f7ab0132cc6fcb",
+        "636b78d6e43cdb01263e955a"
+    ],
+    "idOrganizations": [
+        "62163ec4865bf36bd80c2681",
+        "634fa46925a66305066af9fb"
+    ],
+    "idEnterprisesAdmin": [],
+    "limits": {
+        "boards": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 4500,
+                "warnAt": 3600
+            }
+        },
+        "orgs": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 850,
+                "warnAt": 680
+            }
+        }
+    },
+    "loginTypes": [
+        "atlassian"
+    ],
+    "marketingOptIn": {
+        "optedIn": true,
+        "date": "2022-03-13T16:13:35.647Z"
+    },
+    "messagesDismissed": [
+        {
+            "_id": "6320bb451d32e101dd698b0b",
+            "name": "feedback-card-home-page-internal",
+            "count": 1,
+            "lastDismissed": "2022-09-13T17:17:57.696Z"
+        },
+        {
+            "_id": "6320bb45f3842904c8977464",
+            "name": "feedback-card-home-page-internal",
+            "count": 1,
+            "lastDismissed": "2022-09-13T17:17:57.708Z"
+        },
+        {
+            "_id": "633abda94e68b300e6f0a9f2",
+            "name": "ad-logged-in-public-board-633abac7d6b747035af84c73",
+            "count": 1,
+            "lastDismissed": "2022-10-03T10:47:05.763Z"
+        },
+        {
+            "_id": "633ae6169aacea0188656e60",
+            "name": "ad-subscribeOnComment",
+            "count": 2,
+            "lastDismissed": "2022-10-03T13:39:36.650Z"
+        },
+        {
+            "_id": "634fa85f23072102cef6bdd5",
+            "name": "ad-logged-in-public-board-634fa51f2da56d016cc61955",
+            "count": 1,
+            "lastDismissed": "2022-10-19T07:33:51.137Z"
+        },
+        {
+            "_id": "6366b470cb1dce00678ce455",
+            "name": "ad-logged-in-public-board-6320bbdd40fd04001eddbce2",
+            "count": 1,
+            "lastDismissed": "2022-11-05T19:07:28.401Z"
+        },
+        {
+            "_id": "6366b4a8640baa01157b151a",
+            "name": "ad-logged-in-public-board-634c01333109bf05992fa905",
+            "count": 1,
+            "lastDismissed": "2022-11-05T19:08:24.874Z"
+        },
+        {
+            "_id": "636b72eca6cd1200bc985192",
+            "name": "ad-logged-in-public-board-636b721f1ff94701f737bea2",
+            "count": 1,
+            "lastDismissed": "2022-11-09T09:29:16.669Z"
+        }
+    ],
+    "oneTimeMessagesDismissed": [
+        "sent-possible-new-signup-event",
+        "close-menu-of-first-board",
+        "checklist-education-banner",
+        "team-template-picker-62163ec4865bf36bd80c2681"
+    ],
+    "prefs": {
+        "privacy": {
+            "fullName": "public",
+            "avatar": "public"
+        },
+        "sendSummaries": true,
+        "minutesBetweenSummaries": 60,
+        "minutesBeforeDeadlineToNotify": 1440,
+        "colorBlind": false,
+        "locale": "en-US"
+    },
+    "trophies": [],
+    "uploadedAvatarHash": null,
+    "uploadedAvatarUrl": null,
+    "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+    ],
+    "isAaMastered": true,
+    "ixUpdate": "303",
+    "boards": [
+        {
+            "id": "636a053c78706500ed49ca81",
+            "name": "Bugs",
+            "closed": false,
+            "idOrganization": "63270fd5ef7418008ccd523b",
+            "pinned": false
+        },
+        {
+            "id": "63455703c54fc80466017e2d",
+            "name": "Canary",
+            "closed": false,
+            "idOrganization": "634556f755b06e012cf27a83",
+            "pinned": false
+        },
+        {
+            "id": "6360ed66c41fe2006fcbe48c",
+            "name": "DLE Bugs",
+            "closed": false,
+            "idOrganization": "61f50fd3b8618b49d513d5a4",
+            "pinned": false
+        },
+        {
+            "id": "633abac7d6b747035af84c73",
+            "name": "DMV Software ",
+            "closed": false,
+            "idOrganization": "62163ec4865bf36bd80c2681",
+            "pinned": false
+        },
+        {
+            "id": "634fa51f2da56d016cc61955",
+            "name": "Daily Report",
+            "closed": false,
+            "idOrganization": "634fa46925a66305066af9fb",
+            "pinned": false
+        },
+        {
+            "id": "635d1e94f99d0f149f89390b",
+            "name": "Defects Report",
+            "closed": false,
+            "idOrganization": "62163ec4865bf36bd80c2681",
+            "pinned": false
+        },
+        {
+            "id": "6319b2aac1dbdb00537d181d",
+            "name": "Example Defect Reports",
+            "closed": false,
+            "idOrganization": "5fed0ba732fd5d6cf571a025",
+            "pinned": false
+        },
+        {
+            "id": "622e1ae16dd61e3cae40876d",
+            "name": "First project test scenario ",
+            "closed": false,
+            "idOrganization": "62163ec4865bf36bd80c2681",
+            "pinned": false
+        },
+        {
+            "id": "636b549753f7ab0132cc6fcb",
+            "name": "GirlsTeam-Esaal Project",
+            "closed": false,
+            "idOrganization": "63665bd41f8c6901dcb4976e",
+            "pinned": false
+        },
+        {
+            "id": "636b721f1ff94701f737bea2",
+            "name": "GirlsTeam-Mazadat Project",
+            "closed": false,
+            "idOrganization": "63665bd41f8c6901dcb4976e",
+            "pinned": false
+        },
+        {
+            "id": "6169a8688db58c1e012a7028",
+            "name": "HandyMan",
+            "closed": false,
+            "idOrganization": "5f67e97230d9e3175526f2e6",
+            "pinned": false
+        },
+        {
+            "id": "634c01333109bf05992fa905",
+            "name": "HandyMan Game",
+            "closed": false,
+            "idOrganization": "62163ec4865bf36bd80c2681",
+            "pinned": false
+        },
+        {
+            "id": "62ab26d4800a09880a76b073",
+            "name": "Healthcare Application Project",
+            "closed": false,
+            "idOrganization": "62163ec4865bf36bd80c2681",
+            "pinned": false
+        },
+        {
+            "id": "633004c4759c9202cbd0a278",
+            "name": "Hofaz Elmotoon Test",
+            "closed": false,
+            "idOrganization": "62163ec4865bf36bd80c2681",
+            "pinned": false
+        },
+        {
+            "id": "632b06989c8413018f2d42a2",
+            "name": "New Age",
+            "closed": false,
+            "idOrganization": "61f50fd3b8618b49d513d5a4",
+            "pinned": false
+        },
+        {
+            "id": "6339a12a25ba460422bcf92f",
+            "name": "Nezam Slides",
+            "closed": false,
+            "idOrganization": "61f50fd3b8618b49d513d5a4",
+            "pinned": false
+        },
+        {
+            "id": "636a0531c89dd6017d358f88",
+            "name": "Permit Test Bugs",
+            "closed": false,
+            "idOrganization": "60c1805b16bdc95ba166365d",
+            "pinned": false
+        },
+        {
+            "id": "63677701eea74c01485848f7",
+            "name": "PermitTest",
+            "closed": false,
+            "idOrganization": "636775fc7b787801d5a28427",
+            "pinned": false
+        },
+        {
+            "id": "62f5343929ba40488f58d4b7",
+            "name": "Popular Applications Defects",
+            "closed": false,
+            "idOrganization": "62f533b77bc78311bd7b8d87",
+            "pinned": false
+        },
+        {
+            "id": "636b78d6e43cdb01263e955a",
+            "name": "SharkShalaby-Mazadat",
+            "closed": false,
+            "idOrganization": "63514fd3dc6f23036a9b1455",
+            "pinned": false
+        },
+        {
+            "id": "636a066868eed100fccb6a9e",
+            "name": "Test Bugs",
+            "closed": false,
+            "idOrganization": "63665bd41f8c6901dcb4976e",
+            "pinned": false
+        },
+        {
+            "id": "630074d54086b52208a81007",
+            "name": "huffzaulmutoon Mobile Application",
+            "closed": false,
+            "idOrganization": "6300334cdea7ba14bfe3c114",
+            "pinned": false
+        },
+        {
+            "id": "636776bb07fb7500992edab8",
+            "name": "المحقق كونان",
+            "closed": false,
+            "idOrganization": "63665bd41f8c6901dcb4976e",
+            "pinned": false
+        },
+        {
+            "id": "63381b67fc2890028115d36a",
+            "name": "حفاظ المتون",
+            "closed": false,
+            "idOrganization": "62614f3047aacf4872a1f305",
+            "pinned": false
+        }
+    ]
+}
